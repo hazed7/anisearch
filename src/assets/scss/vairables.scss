@@ -1,0 +1,31 @@
+$background-base: #0a0a0a;
+$background-surface: #1a1a1a;
+$background-gradient: linear-gradient(145deg, #161616, #0d0d0d);
+$card-background: linear-gradient(135deg, rgba(40, 40, 40, 0.9), rgba(20, 20, 20, 0.9));
+
+$color-primary: #84cc16;
+$color-primary-light: #a3e635;
+$color-primary-dark: #65a30d;
+
+$font-color-base: #f8f8f8;
+$font-color-muted: #e2e2e2;
+$font-color-subtle: #9ca3af;
+
+$border-color: rgba(255, 255, 255, 0.1);
+$shadow-small: 0 4px 6px rgba(0, 0, 0, 0.3);
+$shadow-medium: 0 10px 15px rgba(0, 0, 0, 0.35);
+$shadow-large: 0 15px 30px rgba(0, 0, 0, 0.5);
+
+$transition-fast: 0.2s ease;
+$transition-default: 0.3s ease;
+
+$radius-small: 8px;
+$radius-medium: 12px;
+$radius-large: 16px;
+
+$font-body: 'Inter', 'Roboto', system-ui, sans-serif;
+$font-display: 'Poppins', 'Inter', system-ui, sans-serif;
+
+$breakpoint-sm: 640px;
+$breakpoint-md: 768px;
+$breakpoint-lg: 1024px;
