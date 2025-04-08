@@ -9,7 +9,7 @@ export default defineConfig({
 			scss: {
 				additionalData: `
 					@use "sass:color";
-					@use "@/assets/scss/variables.scss" as *;
+					@use "@/styles/variables.scss" as *;
 				`
 			}
 		}
